@@ -1,0 +1,17 @@
+body{
+	background:gray;
+}
+#mainCanvas{
+	background:white;
+}
+#play, #pause{
+	display:none;
+}
+.controls{
+	width:200px;
+	height:40px;
+	font-size:25px;
+	color:yellow;
+	border:1px solid yellow;
+	background-color:black;
+}
